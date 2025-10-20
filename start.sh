@@ -1,7 +1,5 @@
 git pull origin main
 
-./playit-linux-amd64
-
 ./startserver.sh
 
 git add .
