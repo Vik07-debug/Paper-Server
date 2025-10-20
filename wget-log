@@ -1,0 +1,11 @@
+--2025-10-20 10:13:27--  https://release-assets.githubusercontent.com/github-production-release-asset/445695426/7c6a9170-7604-45cd-8063-df06212aee42?sp=r
+Resolving release-assets.githubusercontent.com (release-assets.githubusercontent.com)... 185.199.111.133, 185.199.108.133, 185.199.109.133, ...
+Connecting to release-assets.githubusercontent.com (release-assets.githubusercontent.com)|185.199.111.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 5414080 (5.2M) [application/octet-stream]
+Saving to: ‘7c6a9170-7604-45cd-8063-df06212aee42?sp=r’
+
+7c6a9170-7604-45cd-8063-df06212aee42?sp   0%[                                                                                ]       0  --.-KB/s               7c6a9170-7604-45cd-8063-df06212aee42?sp  11%[========>                                                                       ] 605.06K  2.74MB/s               7c6a9170-7604-45cd-8063-df06212aee42?sp 100%[===============================================================================>]   5.16M  13.6MB/s    in 0.4s    
+
+2025-10-20 10:13:28 (13.6 MB/s) - ‘7c6a9170-7604-45cd-8063-df06212aee42?sp=r’ saved [5414080/5414080]
+
