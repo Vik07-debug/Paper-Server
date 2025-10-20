@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "ip": "127.187.216.186",
+    "created": "2025-10-20 15:16:04 +0000",
+    "source": "Viik56",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]
