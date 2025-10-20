@@ -1,0 +1,1 @@
+java -Xms6G -Xmx7G -jar paper-1.21.8-60.jar --nogui
